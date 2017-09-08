@@ -5,4 +5,5 @@ console.log('hi')
 var student = [["Alex", "Smith"], ["Harry", "Grig"], ["Peter", "jackson"]]
 console.table(student);
 ```
-[image](pic.jpeg)
+[image](pic.jpg)
+
